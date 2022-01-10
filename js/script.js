@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    
+
     const slider = document.querySelector('.swiper');
 
     const swiper = new Swiper(slider, {
